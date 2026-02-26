@@ -1,9 +1,12 @@
 {
   "name": "wm-autoparadies",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "W&M Autoparadies GmbH – static site + Vercel serverless API backed by Supabase",
   "license": "UNLICENSED",
+  "engines": {
+    "node": "20.x"
+  },
   "dependencies": {
     "@supabase/supabase-js": "^2.49.1"
   }
